@@ -6,7 +6,7 @@ const About = () => (
         <h2>About :</h2>
         <Box sx={{marginTop : 2}}>
             This App is created as part of <Link href="https://unstop.com/competition/optum-stratethon-e-track-optum-stratethon-season-4-optum-409946" underline='hover'>Optum Stratethon 2022 </Link> 
-            by <Link href='https://github.com/quantum-shift' underline='hover'>Avigyan Bhattacharya</Link> and <Link href='https://github.com/beedle2017' underline='hover'>Arka Choudhuri</Link>. 
+            by <Link href='https://github.com/Avigyan2001' underline='hover'>Avigyan Bhattacharya</Link> and <Link href='https://github.com/beedle2017' underline='hover'>Arka Choudhuri</Link>. 
         </Box>
         <Box sx={{marginTop : 10}}>
             <h3>Problem Statement :</h3>
